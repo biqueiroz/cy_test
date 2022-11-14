@@ -9,7 +9,7 @@ O objetivo era somente demonstrar o que consigo fazer nesse momento de estudo e 
 
 
 
->>> Instruções:
+> Instruções:
 
 - O arquivo de teste está localizado em cy_test > cypress > e2e > 1-sprec.cy.js.
 - Para execução do Cypress, foi configurado o comando "open". Para iniciá-lo, utilize em seu terminal: npm run open.
