@@ -1,7 +1,7 @@
 const user = {
     firstName: 'Ayla Larissa',
     lastName: 'Fogaça',
-    email: 'aylalarissafogaca@roche.com',
+    email: 'aylalarissafogaca@test.com',
     password: 'Abc1234#',
     phoneNumber: '8327068026',
     address: {
